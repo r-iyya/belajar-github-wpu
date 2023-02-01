@@ -4,5 +4,6 @@ Rencana konten media
 - bikin storyboard
 - bikin use case diagram
 - masukin materi dan soal
-  ^ materi array
-  ^ materi list
+  ^ materi percabangan
+  ^ materi perulangan
+
