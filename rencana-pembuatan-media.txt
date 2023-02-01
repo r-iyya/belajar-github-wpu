@@ -1,7 +1,8 @@
 Rencana konten media
 - bikin flowchart
-  mulai dari login sampe kuis akhir
+  ^ mulai dari login sampe kuis akhir
 - bikin storyboard
 - bikin use case diagram
 - masukin materi dan soal
   ^ materi percabangan
+  ^ materi perulangan
